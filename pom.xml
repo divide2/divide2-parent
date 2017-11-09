@@ -24,6 +24,7 @@
         <module>../organization-service</module>
         <module>../zuul-service</module>
         <module>../zipkin-service</module>
+        <module>../divide2-util</module>
     </modules>
     <build>
         <plugins>
