@@ -25,6 +25,7 @@
         <module>../zuul-service</module>
         <module>../zipkin-service</module>
         <module>../divide2-util</module>
+        <module>../chat-service</module>
     </modules>
     <build>
         <plugins>
